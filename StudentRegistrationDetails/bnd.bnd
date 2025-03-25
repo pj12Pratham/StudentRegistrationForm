@@ -1,0 +1,7 @@
+Bundle-Name: StudentRegistrationDetails
+Bundle-SymbolicName: com.liferay.ty.docs
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.ty.docs.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
